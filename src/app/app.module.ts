@@ -11,6 +11,6 @@ import { CommonModule } from '@angular/common';
   ],
   providers: [
   
-  ],             // Add any services if needed
+  ],
 })
 export class AppModule {}
